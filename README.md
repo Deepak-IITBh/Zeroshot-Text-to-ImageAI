@@ -24,12 +24,11 @@ Text-to-ImageAI is a deep learning-based project focused on generating images fr
 
 ## Team Members
 
-    Nitin Mane
-    Himanshu Rana
-    Deepak 
-    Mahesh Kesgire
-    Mohd Mukheet
-
+- Nitin Mane  
+- Himanshu Rana  
+- Deepak Kumar  
+- Mahesh Kesgire  
+- Mohd Mukheet
 
 &nbsp;
 
